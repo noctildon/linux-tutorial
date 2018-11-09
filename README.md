@@ -1,7 +1,11 @@
 # Content
 
+- [Content](#content)
 - [linux ubuntu install](#linux-ubuntu-install)
+    - [在Windows下安裝Ubuntu](#%E5%9C%A8windows%E4%B8%8B%E5%AE%89%E8%A3%9Dubuntu)
+- [ubuntu mate install](#ubuntu-mate-install)
 - [To do list](#to-do-list)
+
 
 
 # linux ubuntu install
@@ -16,7 +20,17 @@
 [中文安裝指引-影音2](https://www.youtube.com/watch?v=rjpBTT6AmeU)
 
 
-## To do list
+
+# ubuntu mate install
+
+
+[English tutorial-video](https://www.youtube.com/watch?v=-9nux6iKmjU)
+[English tutorial-article](https://www.tecmint.com/install-mate-desktop-in-ubuntu-fedora/)
+
+
+
+
+# To do list
 
 - [ ] add more content
 - [ ] add English version
